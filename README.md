@@ -1,4 +1,4 @@
-# the-hardest-quiz-demo
+# The Hardest Quiz Demo
 A fanmade TIQ tribute with only 30 questions.
 
 You can download the swf file here: [Download SWF File](https://yblui.github.io/the-hardest-quiz-demo/thq.swf)

@@ -1,5 +1,14 @@
-# The Hardest Quiz Demo
-A fanmade TIQ tribute with only 30 questions.
+# The Hardest Quiz BETA
+
+A fanmade TIQ tribute with 40 questions.
+
+## BETA Version Features:
+
+- 10 more questions!
+- Arsebook integration!
+- Not much else!
+
+The game will be updated frequently, with new questions added. Full quiz might be an extremely long one!
 
 You can download the swf file here: [Download SWF File](https://yblui.github.io/the-hardest-quiz-demo/thq.swf)
 
